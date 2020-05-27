@@ -4,8 +4,9 @@
 Petder is a dating application for your beloved cats. In this repository, it is the Api for this application. 
 
 ## Installing
-1. .NET Core 3.1
-2. SQL Server 2017 
+1. C#
+2. .NET Core 3.1
+3. SQL Server 2017 
 
 ## Command to run
 > dotnet ef database update 
